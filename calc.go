@@ -17,5 +17,5 @@ func Multiply(x, y int) int {
 
 // Add 返回两个整数相除的函数
 func Divide(x, y int) int {
-	return x * y
+	return x / y
 }
